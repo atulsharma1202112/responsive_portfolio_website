@@ -1241,9 +1241,10 @@ img {
     }
     .nav{
     max-width: 120rem;
+    height: calc(var(--header-height) + 4.5rem);
     }
     .nav__logo, .nav__link {
-        font-size: var(--h3-font-size);
+        font-size: var(--h2-font-size);
     }
     .home__blob {
         width: 320px;
