@@ -1239,6 +1239,9 @@ img {
     .footer__container {
         padding: 0;
     }
+    .nav{
+    max-width: 120rem;
+    }
     .home__blob {
         width: 320px;
     }
