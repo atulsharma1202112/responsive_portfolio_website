@@ -1242,6 +1242,9 @@ img {
     .nav{
     max-width: 120rem;
     }
+    .nav__logo, .nav__link {
+        font-size: var(--h3-font-size);
+    }
     .home__blob {
         width: 320px;
     }
