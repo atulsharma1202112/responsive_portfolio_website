@@ -1240,11 +1240,11 @@ img {
         padding: 0;
     }
     .nav{
-    max-width: 120rem;
+    max-width: 90rem;
     height: calc(var(--header-height) + 4.5rem);
     }
     .nav__logo, .nav__link {
-        font-size: var(--h2-font-size);
+        font-size: var(--normal-font-size);
     }
     .section {
     margin: 0;
